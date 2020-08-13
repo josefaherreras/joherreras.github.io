@@ -1,0 +1,116 @@
+body {
+  background-color: whitesmoke;
+  font-family: "Roboto", sans-serif;
+}
+
+/*Estilos generales*/
+h1 {
+  text-align: center;
+  color: #8675a9;
+  font-size: 50px;
+}
+
+.titulo-descripcion {
+  padding-bottom: 70px;
+}
+
+.titulo-descripcion h3 {
+  font-size: 20px;
+}
+.titulo-descripcion h2 {
+  text-align: center;
+  font-size: 22px;
+  color: #565555;
+}
+
+/*nav*/
+nav {
+  background-color: black;
+  color: white;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+nav a:hover {
+  text-decoration: none;
+  color: pink;
+}
+
+/*bienvenida*/
+.first-section {
+  padding: 250px 0px;
+  text-align: center;
+}
+
+.first-section h1 {
+  font-size: 63px;
+}
+
+.first-section h2 {
+  font-size: 49px;
+}
+
+.first-section h1 {
+  font-size: 3.5rem;
+}
+
+/*Acerca de mi*/
+.second-section {
+  padding-bottom: 100px;
+  padding-top: 100px;
+}
+
+.second-section h1 {
+  padding: 30px 0px;
+}
+
+.second-section img {
+  width: 77%;
+  text-align: center;
+}
+
+/*Habilidades*/
+
+.third-section {
+  padding-bottom: 100px;
+  padding-top: 100px;
+}
+
+.third-section h3 {
+  font-size: 25px;
+  font-weight: bold;
+  padding-top: 48px;
+}
+
+.third-section img {
+  padding-top: 48px;
+}
+
+/*Experiencia*/
+.four-section {
+  padding-bottom: 100px;
+  padding-top: 100px;
+}
+
+/*Contacto*/
+.five-section {
+  padding-bottom: 100px;
+  padding-top: 100px;
+  text-align: center;
+}
+.five-section p {
+  text-align: center;
+  font-size: 18px;
+}
+
+.five-section img {
+  width: 6%;
+}
+
+/*Footer*/
+.footer {
+  background-color: black;
+  color: white;
+}
